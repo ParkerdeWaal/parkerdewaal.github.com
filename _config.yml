@@ -5,7 +5,6 @@ permalink: /:title
 auto: false
 paginate: 10 
 pygments: true
-production_url : http://parkerdewaal.com
 #archive_path: /archive.html
 #categories_path : /categories.html
 #tags_path : /tags.html
