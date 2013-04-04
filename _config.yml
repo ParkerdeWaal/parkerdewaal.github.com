@@ -1,0 +1,20 @@
+# Formatting
+permalink: /:title 
+
+#Settings
+auto: false
+server: true
+paginate: 10 
+pygments: true
+production_url : http://parkerdewaal.com
+#archive_path: /archive.html
+#categories_path : /categories.html
+#tags_path : /tags.html
+#rss_path : /rss.xml
+
+#global variables
+author :
+  name : Parker de Waal
+  email : Parker.deWaal@gmail.com
+  github : ParkerdeWaal
+
