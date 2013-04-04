@@ -3,7 +3,6 @@ permalink: /:title
 
 #Settings
 auto: false
-server: false
 paginate: 10 
 pygments: true
 production_url : http://parkerdewaal.com
