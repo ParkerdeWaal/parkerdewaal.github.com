@@ -1,0 +1,84 @@
+.text#intro {
+  background: #fff;
+  padding: 125px 0 250px 0; }
+  .text#intro .text {
+    margin: 0 auto;
+    width: 800px; }
+  .text#intro h1 {
+    color: #000;
+    font: 400 87px/84px Abril Fatface; }
+    .text#intro h1 span.kern {
+      margin: 0 0 0 -10px; }
+  .text#intro h2 {
+    color: #222;
+    font: 300 18px/24px "open sans";
+    margin: 0 0 36px 0;
+    width: 650px; }
+    .text#intro h2 a:hover {
+      font-weight: 700; }
+  .text#intro p, .text#intro ul {
+    color: #666;
+    float: left;
+    font: 400 13px/21px "open sans";
+    margin: 0 50px 0 0;
+    width: 450px; }
+  .text#intro ul {
+    margin: 0;
+    position: relative;
+    top: -2px;
+    width: 300px; }
+    .text#intro ul li {
+      font-size: 11px;
+      text-transform: uppercase; }
+      .text#intro ul li:before {
+        content: "\00d7";
+        font-size: 15px;
+        font-weight: 700;
+        left: -2px;
+        position: relative;
+        top: 2px; }
+      .text#intro ul li a:hover {
+        color: #222;
+        font-weight: 700; }
+.text#intro {
+  background: #555555;
+  padding: 125px 0 250px 0; }
+  .text#intro .text {
+    margin: 0 auto;
+    width: 800px; }
+  .text#intro h1 {
+    color: #000;
+    font: 400 87px/84px Abril Fatface; }
+    .text#intro h1 span.kern {
+      margin: 0 0 0 -10px; }
+  .text#intro h2 {
+    color: #222;
+    font: 300 18px/24px "open sans";
+    margin: 0 0 36px 0;
+    width: 650px; }
+    .text#intro h2 a:hover {
+      font-weight: 700; }
+  .text#intro p, .text#intro ul {
+    color: #666;
+    float: left;
+    font: 400 13px/21px "open sans";
+    margin: 0 50px 0 0;
+    width: 450px; }
+  .text#intro ul {
+    margin: 0;
+    position: relative;
+    top: -2px;
+    width: 300px; }
+    .text#intro ul li {
+      font-size: 11px;
+      text-transform: uppercase; }
+      .text#intro ul li:before {
+        content: "\00d7";
+        font-size: 15px;
+        font-weight: 700;
+        left: -2px;
+        position: relative;
+        top: 2px; }
+      .text#intro ul li a:hover {
+        color: #222;
+        font-weight: 700; }
