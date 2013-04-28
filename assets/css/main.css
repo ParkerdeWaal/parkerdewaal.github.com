@@ -1,11 +1,4 @@
-.intro#intro {
-  background: #fff;
-  padding: 125px 0 250px 0; 
+body { background-color: rgb(52, 152, 219) !important; }
+h1 { font-family: 'Open Sans', sans-serif !important; }
 
-  width:100%;}
-.text#words {
-  background: #555555;
-  padding: 125px 0 250px 0; 
-
-  width:100%;}
   
