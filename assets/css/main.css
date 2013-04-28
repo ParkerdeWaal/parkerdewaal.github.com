@@ -1,9 +1,9 @@
 body { background-color: #0ac5f4 !important; }
 h1 {
-    color: #fff;
-    font: 100 72px/72px "lato";
-    letter-spacing: -2px;
-    text-transform: uppercase; 
+    color: #fff !important;
+    font: 100 72px/72px "lato" !important;
+    letter-spacing: -2px !important ;
+    text-transform: uppercase !important; 
   }
 
   
