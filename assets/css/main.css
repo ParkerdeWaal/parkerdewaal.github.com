@@ -1,4 +1,6 @@
-body { background-color: #0ac5f4 !important; }
+body {
+  background-image: url('{{ site.baseurl }}/ig.png');
+}
 h1 {
     color: #fff !important;
     font: 72px/72px "lato" !important;
