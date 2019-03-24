@@ -1,8 +1,0 @@
-# Formatting
-permalink: /:title 
-
-#Settings
-auto: false
-server: true
-paginate: 10 
-pygments: true
